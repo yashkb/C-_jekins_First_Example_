@@ -19,7 +19,7 @@ namespace POMProj.TestCases
         public static IEnumerable<string> data()
         {
             yield return "Yash";
-            yield return "Alex";
+            yield return "Yash";
         }
     }
 }

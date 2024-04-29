@@ -14,7 +14,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace POMProj.TestCases
 {
-    [Parallelizable(ParallelScope.All)]
+    
     
     internal class ParaBank_Login_TESTCASE
     {

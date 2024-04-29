@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|c:\\users\\admin\\desktop\\1.learn\\cshrap\\testing\\csharp-pom\\pomproj\\pomproj\\testcases\\parabank_login_testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|solutionrelative:pomproj\\testcases\\parabank_login_testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|c:\\users\\admin\\desktop\\1.learn\\cshrap\\testing\\csharp-pom\\pomproj\\pomproj\\pages\\parabank_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|solutionrelative:pomproj\\pages\\parabank_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|c:\\users\\admin\\desktop\\1.learn\\cshrap\\testing\\csharp-pom\\pomproj\\pomproj\\testcases\\ddt_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73454199-A697-4F6D-ADF2-1E34BC8877E4}|POMProj\\POMProj.csproj|solutionrelative:pomproj\\testcases\\ddt_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,38 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParaBank_Login_TESTCASE.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\ParaBank_Login_TESTCASE.cs",
+              "RelativeDocumentMoniker": "POMProj\\TestCases\\ParaBank_Login_TESTCASE.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\ParaBank_Login_TESTCASE.cs",
+              "RelativeToolTip": "POMProj\\TestCases\\ParaBank_Login_TESTCASE.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:38:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParaBank_Login_PAGE.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\Pages\\ParaBank_Login_PAGE.cs",
+              "RelativeDocumentMoniker": "POMProj\\Pages\\ParaBank_Login_PAGE.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\Pages\\ParaBank_Login_PAGE.cs",
+              "RelativeToolTip": "POMProj\\Pages\\ParaBank_Login_PAGE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:31:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DDT_Example.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\DDT_Example.cs",
               "RelativeDocumentMoniker": "POMProj\\TestCases\\DDT_Example.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\DDT_Example.cs",
               "RelativeToolTip": "POMProj\\TestCases\\DDT_Example.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T12:04:12.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GooglePage.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\Pages\\GooglePage.cs",
               "RelativeDocumentMoniker": "POMProj\\Pages\\GooglePage.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\Pages\\GooglePage.cs",
               "RelativeToolTip": "POMProj\\Pages\\GooglePage.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAwwFAAAAARAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswFAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T15:04:03.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "googleTESTCASE.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\googleTESTCASE.cs",
               "RelativeDocumentMoniker": "POMProj\\TestCases\\googleTESTCASE.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\1.Learn\\cShrap\\Testing\\cSharp-POM\\POMProj\\POMProj\\TestCases\\googleTESTCASE.cs",
               "RelativeToolTip": "POMProj\\TestCases\\googleTESTCASE.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEYAAAAIAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwEYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T15:03:58.414Z",
               "EditorCaption": ""
